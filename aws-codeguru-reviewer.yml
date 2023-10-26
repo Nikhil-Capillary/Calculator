@@ -20,3 +20,4 @@ excludeFiles:
   - 'src/some-package/**'
   - 'tst/**'
   - 'src/some-*/**/*.json'
+  - 'pom.xml'
